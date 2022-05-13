@@ -1,0 +1,11 @@
+Test theory and test documentation: SDLC, STLC, методы и виды тестирования, техники тест дизайна, особенности тестирования мобильных приложений. Понимание гибкой методологии Agile, фреймворка Scrum. Понимание клиент-серверной архитектуры. Работа с JSON, XML. Написание test plan, test cases, check lists, bug report in Jira, TRR
+Linux: pwd, cd, mkdir, touch, vim, rm, mv, grep
+Git, Gitbsh, GitHub: работа с репозиториями, ветками, мерж веток. Создание, удаление, добавление файлов
+Postman: Передача параметров в окружение. Отправка запросов методами Get, Post. Написание простых автотестов
+DevTools: Google Chrome
+JMeter: Нагрузочное тестирование, анализ результатов
+Charles, Fiddler: Установка сертификата, настройка Proxy, перехват, анализ и модификация трафика.
+SQL: Работа с DBeaver. Select, wher(and, or), between, group by,order by (asc, desc), like, join, union, insert into,
+Android Studio: Сборка приложений, запуск на эмуляторе,
+HTML, CSS: Структура сайта, HTML синтаксис
+

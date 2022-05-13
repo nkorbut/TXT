@@ -1,0 +1,7 @@
+Person:
+Name - Natalia 
+Surname - Korbut,
+age - 36,
+pets - 6,
+salary -  500
+
